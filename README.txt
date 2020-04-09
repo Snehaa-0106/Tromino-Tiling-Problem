@@ -1,5 +1,4 @@
 Name     : Snehaa Sivakumar
-B-number : B00813750
 PURPOSE  : Implmentation of Tromino Tiling algorithm in C.
 
 FILES: MakeFile, Snehaa_Sivakumar.c
