@@ -9,3 +9,4 @@ CLEAN OBJECT CODE: make clean
 
 DATA STRUCTURE: 2D- Array
 
+The Final Output has been attached in the Tromino output file
